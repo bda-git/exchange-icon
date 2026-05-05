@@ -1,5 +1,5 @@
 # exchange-icon
-Icon for Exchange application
+Icon for Exchange application can be used to convert between XML and Blueprint formats, made by @shonebinu.
 
 
 
