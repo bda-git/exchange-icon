@@ -6,7 +6,7 @@ Icon for Exchange application can be used to convert between XML and Blueprint f
 This includes:
 * Application icon on template
 
-
+![alt text](https://github.com/bda-git/exchange-icon/blob/main/org.Exchange-template.jpg?raw=true)
 
 * Standard application icon
 * Develop application icon
