@@ -1,7 +1,7 @@
 # exchange-icon
 Icon for Exchange application
 
-![alt text]()
+
 
 
 This includes:
